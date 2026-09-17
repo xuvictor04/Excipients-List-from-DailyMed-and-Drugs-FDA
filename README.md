@@ -6,6 +6,4 @@ DailyMed is comprehensive, including OTC and Drugs found on their database.
 Any questions, fell free to contact me at xuvictor04@gmail.com.
 I would love to help with any questions, if you want code, or where I found the resources. 
 
-I'm a PharmD student, and was working on some excipient work in a lab.
-
 If anyone does use it, please send me a Hi!. I'm interested if my work is being used, and like involvement. 
